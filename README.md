@@ -1,13 +1,9 @@
-Demo Project:
-Docker for local development
-
+Demo Project
+Docker Compose - Run multiple Docker containers
 Technologies used:
-Docker, Node.js, MongoDB, MongoExpress
-
+Docker, MongoDB, MongoExpress
 Project Description:
-Run Node.js application locally.
-Run MongoDB database container locally.
-Also run MongoExpress container as a UI for the database.
+Write Docker Compose file to run MongoDB and MongoExpress containers.
 
 Step 1 : Start MongoDB and Mongo Express
 ```bash
